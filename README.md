@@ -1,2 +1,2 @@
 # QETLAB-Supplemental-Functions
-This repository collects some useful functions, which can be use with the QETLAB package (https://qetlab.com).
+This repository is a collection some useful functions for quantum information, which should be used with the QETLAB package installed (https://qetlab.com).
